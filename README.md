@@ -1,4 +1,4 @@
-# This is Alice in Borderland (in an nutshell) Project for HTML &amp; CSS Workshop
+# This is Alice in Borderland (in a nutshell) Project for HTML &amp; CSS Workshop
 Made with HTML & CSS Only.
 <br>
 go watch Alice in Borderland!
