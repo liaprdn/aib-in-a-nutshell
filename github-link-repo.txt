@@ -1,8 +1,0 @@
-Nama: Aulia Pradina
-
-Github Link
-
-Repository: https://github.com/liaprdn/aib-in-a-nutshell
-Github Pages: https://liaprdn.github.io/aib-in-a-nutshell/
-
-Sorry, the page is not responsive yet ):
