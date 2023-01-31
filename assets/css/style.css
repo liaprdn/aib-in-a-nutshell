@@ -32,9 +32,15 @@ html, body, h1{
     height: 40px;
 }
 
-.header .nav, a, h1 {
+.header .nav, a{
     text-decoration: none;
 }
+
+.header .nav, a > h1:hover{
+    text-decoration: none;
+    color: #dbdad9;
+}
+
 
 .header .nav .link {
     padding-right: 10px;
